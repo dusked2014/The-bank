@@ -1,2 +1,0 @@
-Balance 900.0 OverDraft 3000.0
-Balance 700.0 Interest 0.2
